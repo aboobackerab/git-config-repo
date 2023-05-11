@@ -1,3 +1,6 @@
 management:
   security:
     enabled: false
+server:
+  servlet:
+    context-path: /api/v1
